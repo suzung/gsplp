@@ -2,6 +2,7 @@
 ## Azure Synapse Analytics Training
 
 **Full day workshop**
+
 **When**: Week of 14th of February if possible - will depend on Western Europe calendar - 
 **Language**: English
 
