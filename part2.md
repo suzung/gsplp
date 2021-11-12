@@ -1,4 +1,4 @@
-# Days 6-15
+# Week 2
 ## Synapse & Purview Core Concepts
 ### Articles
 
@@ -32,7 +32,7 @@ Learn about Synapse and Purview core concepts, including infrastructure componen
 [purview-network]: https://docs.microsoft.com/en-us/azure/purview/manage-integration-runtimes
 [purview-pricing]:https://azure.microsoft.com/en-us/pricing/details/azure-purview/
 
-
+Total 15 articles, approximatively 90 minutes
 ---
 
 [next-link]: part3.md
