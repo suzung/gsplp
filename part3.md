@@ -10,7 +10,7 @@ Work your way through a Synapse learning path to see all the concepts in action 
 
 ##### Starter kit ~ 75 minutes 
 
-> [Purview Starter Kit on MS Docs][purview-starter-kit]
+> [Purview Starter Kit on Github][purview-starter-kit]
 
 [synapse-learning-path]: https://docs.microsoft.com/en-us/learn/paths/realize-integrated-analytical-solutions-with-azure-synapse-analytics/
 [synapse-learning-path-challenge]: https://docs.microsoft.com/learn/challenges?id=ea36bed8-5984-450c-aac9-c146992024f7
