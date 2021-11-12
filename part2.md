@@ -33,6 +33,8 @@ Learn about Synapse and Purview core concepts, including infrastructure componen
 [purview-pricing]:https://azure.microsoft.com/en-us/pricing/details/azure-purview/
 
 Total 15 articles, approximatively 90 minutes
+
+
 ---
 
 [next-link]: part3.md
