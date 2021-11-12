@@ -10,7 +10,7 @@ Learn about Synapse and Purview core concepts, including infrastructure componen
 | [Synapse Terminology][synapse-terms]                                                                                                           | [Purview Terminology][purview-terms]                                                          |
 | [Access control][synapse-security-acl] & [Encryption][synapse-security-encryption] & [AAD][synapse-security-aad] & [SQL][synapse-security-sql] | [Permissions][purview-security-permissions] & [Credential management][purview-security-creds] |
 | [Synapse Networking][synapse-network]                                                                                                          | [Purview Integration][purview-network]                                                        |
-| [SQL Resource utilization][synapse-scaling-sql] & [Autoscaling Spark][synapse-scaling-spark]                                                   | [Purview pricing/scaling][purview-pricing]                                                    |
+| [SQL Resource utilization][synapse-scaling-sql] & [Autoscaling Spark][synapse-scaling-spark]                                                   | [Purview pricing/scaling][purview-pricing]  & [Pricing guidelines][purview-guidelines-pricing]                                           |
 
 <!-- Core Concepts | [Synapse][synapse-link] | [Purview][purview-link] -->
 
@@ -31,6 +31,7 @@ Learn about Synapse and Purview core concepts, including infrastructure componen
 [purview-security-creds]: https://docs.microsoft.com/en-us/azure/purview/manage-credentials
 [purview-network]: https://docs.microsoft.com/en-us/azure/purview/manage-integration-runtimes
 [purview-pricing]:https://azure.microsoft.com/en-us/pricing/details/azure-purview/
+[purview-guidelines-pricing]:https://docs.microsoft.com/en-us/azure/purview/concept-guidelines-pricing
 
 Total 15 articles, approximatively 90 minutes
 
