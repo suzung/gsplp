@@ -3,7 +3,9 @@
 
 There are many valid architectures that use Synapse, alone or in combination with other data services like Databricks or Azure Analysis Services. In this part of the learning path, you will design your own architecture based on a fictional customer case. The customer case has many elements, thus feel free to divide your architecture in multiple parts.
 
-### Assignment
+~120 minutes + office hours 
+
+### Assignment ~75 minutes
 > Review several architectures, including, but not limited to, the links below and create and be prepared to discuss your own  standard architecture, include at least Synapse and Purview.
 
 ---
@@ -14,7 +16,7 @@ There are many valid architectures that use Synapse, alone or in combination wit
 - [Browse Azure Architecture](https://docs.microsoft.com/en-us/azure/architecture/browse/?filter-products=synapse&products=azure-synapse-analytics)
 - [Google: azure synapse architecture](https://www.google.com/search?q=azure%20synapse%20architecture)
 
-## Customer case
+## Customer case ~45 minutes
 
 Contoso is a leading Swiss retailer with 500 stores across 20 countries (Europe and the US). They are in business for over 10 years and did grow to 20 million orders in 2020! Especially in 2020, most of their sales come via their online retail channel which is using Azure Cosmos DB to store their order data for global distribution, with multi-region writes. Data for the in-store sales are stored in a SQL database, divided over a datacenter per country. Stores in the bigger countries in Europe already moved to Azure SQL, however some countries still have their data in a private cloud.
 
