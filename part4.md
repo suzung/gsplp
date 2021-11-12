@@ -1,4 +1,4 @@
-# Day 21-25
+# Week 4
 ## Synapse & Purview Architecture Design
 
 There are many valid architectures that use Synapse, alone or in combination with other data services like Databricks or Azure Analysis Services. In this part of the learning path, you will design your own architecture based on a fictional customer case. The customer case has many elements, thus feel free to divide your architecture in multiple parts.
@@ -8,6 +8,7 @@ There are many valid architectures that use Synapse, alone or in combination wit
 
 ---
 - [Azure Data platform end-to-end](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/dataplate2e/data-platform-end-to-end)
+- [Azure Datawarehousing and analytics](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/data/data-warehouse)
 - [DataOps for the Modern Datawarehouse](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/data-warehouse/dataops-mdw)
 - [Modern Data Warehouse Architecture](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/modern-data-warehouse)
 - [Browse Azure Architecture](https://docs.microsoft.com/en-us/azure/architecture/browse/?filter-products=synapse&products=azure-synapse-analytics)
@@ -15,7 +16,7 @@ There are many valid architectures that use Synapse, alone or in combination wit
 
 ## Customer case
 
-Contoso is a leading Dutch retailer with 500 stores across 20 countries (Europe and the US). They are in business for over 10 years and did grow to 20 million orders in 2020! Especially in 2020, most of their sales come via their online retail channel which is using Azure Cosmos DB to store their order data for global distribution, with multi-region writes. Data for the in-store sales are stored in a SQL database, divided over a datacenter per country. Stores in the bigger countries in Europe already moved to Azure SQL, however some countries still have their data in a private cloud.
+Contoso is a leading Swiss retailer with 500 stores across 20 countries (Europe and the US). They are in business for over 10 years and did grow to 20 million orders in 2020! Especially in 2020, most of their sales come via their online retail channel which is using Azure Cosmos DB to store their order data for global distribution, with multi-region writes. Data for the in-store sales are stored in a SQL database, divided over a datacenter per country. Stores in the bigger countries in Europe already moved to Azure SQL, however some countries still have their data in a private cloud.
 
 2020 wasn't a great year for their in-store sales due to some obvious reasons and due to the pandemic, Contoso understands that their online business is here to stay. They want to leverage their (historical data) for multiple use-case:
 
