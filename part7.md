@@ -1,4 +1,4 @@
-# Day 33-50
+# Week 7
 ## Operational best practices for Synapse & Purview
 
 Review these resources to understand the different ways to use Synapse and Purview in an optimal way!
@@ -6,27 +6,30 @@ Review these resources to understand the different ways to use Synapse and Purvi
 ---
 ### General
 
-### Synapse SQL Pool
-- [Data loading into SQL Pool (DWH)](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-best-practices)
-- [Development with SQL Pool](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-best-practices-development)
+### Synapse SQL Pool ~10 minute
+- [Best practices for SQL Pool (DWH)](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-best-practices)
 
-### Synapse SQL Serverless
+### Synapse SQL Serverless ~15 minutes
 - [Best practices for Serverless SQL](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql/best-practices-sql-on-demand)
 - [Cost management for Serverless SQL](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql/data-processed)
 
-### Synapse Spark
+### Synapse Spark ~20-25 minutes
 - [Using Delta Lake with Synapse Spark](https://docs.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-delta-lake-overview?pivots=programming-language-csharp)
 - [Data validation at scale](https://techcommunity.microsoft.com/t5/azure-architecture-blog/data-validation-at-scale-with-azure-synapse/ba-p/2051697)
 
-### Migration from on-premises & cloud data warehouses
+### Migration from on-premises & cloud data warehouses ~2 minutes
 
 - [Azure Synapse Pathway (Preview)](https://docs.microsoft.com/en-us/sql/tools/synapse-pathway/azure-synapse-pathway-overview?view=azure-sqldw-latest)
 
 
-### Purview
+### Purview ~30 minutes
 
+you can also explore most best practices from the deployment best practices link. 
 - [Azure Purview deployment best practices](https://docs.microsoft.com/en-us/azure/purview/deployment-best-practices)
 - [Azure Purview limits](https://docs.microsoft.com/en-us/azure/purview/how-to-manage-quotas)
+
+
+# Congratulations you finished the learning path 
 
 ---
 
