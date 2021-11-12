@@ -1,4 +1,4 @@
-# Day 1-5 
+# Week 1
 ## Synapse & Purview Basics
 ### Video series
 
@@ -6,7 +6,7 @@ Join Satya, Jeremy Chapman and Scott Hanselman on YouTube for a series of videos
 
 > [Click here to watch][video-series]
 
-##### 11 videos, 109 minutes
+##### 11 videos, 120 minutes
 
 
 [video-series]: https://aka.ms/wegsplp/videoseries
