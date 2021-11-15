@@ -1,9 +1,10 @@
-# WIP - Week 6
-## Data Analytics & Governance patterns & practices
+# WIP - Week 7
+## CAF/WAF for analytics and data governance
 
-Understand the repeatable, generic patterns and reusable components that make developing reliable data analytics and governance systems easier and more efficient—so you can free up your time to focus on more strategic initiatives.
+Learn more about Well Architected framework and Cloud Adoption framework in the context of analytics and data governance
 
- WIP 
+
+ WIP links to be changed by Sevgi
  
  
 - [CAF Azure best practices - Synapse](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-best-practices/analytics/azure-synapse)
