@@ -2,11 +2,11 @@
 <img src="assets/synapse_logo.png" alt="Synapse logo" width=100 height=100 style="float: left; margin-right: 10px;" />
 <img src="assets/purview_logo.png" alt="Purview logo" width=100 height=100 style="float: right; margin-right: 10px;" />
 
-## _**7 weeks from zero to hero!**_
+## _**8 weeks from zero to hero!**_
 
 Synapse and Purview are two of the most strategic technologies in Azure, the first attempts to bridge the gap between SQL and Spark and bringing in other components of the data lifecycle and providing a Studio to easily get started and manage the data. Purview provides data governance functionality, automatic scanning of your data sources and classifying fields for both privacy-sensitivity and your own glossary, a crucial component in scaling up the use of data!
 
-This guide is meant for anyone interested in learning more about analytics and data governance on Azure. In just 7 weeks for few hours a week, you’ll understand the basics of Synapse and Purview and get hands-on experience with its various components, capabilities, and solutions. Go from zero to hero with Synapse & Purview to set your company up for future analytics success.
+This guide is meant for anyone interested in learning more about analytics and data governance on Azure. For an average of 3-4 hours per week during 8 weeks, you’ll understand the basics of Synapse and Purview and get hands-on experience with its various components, capabilities, and solutions. Go from zero to hero with Synapse & Purview to set your company up for future analytics success.
 
 ![Learning Path](assets/Guided%20Analytics%20Learning%20Path.png)
 
@@ -14,7 +14,7 @@ This guide is meant for anyone interested in learning more about analytics and d
 
 ## Communication
 - Community on Teams - invite only, after privacy consent
-  - Weekly Office Hours via Microsoft Teams - normally every friday from Friday 21st January 2022 from 4pm to 5pm
+  - Weekly Office Hours via Microsoft Teams - normally every friday from day 5 from 4pm to 5pm
   - Partner specific discussions via Microsoft Teams
 - Technical questions via StackOverflow with [`azure-synapse`][so-synapse] & [`azure-purview`][so-purview] label
 
@@ -27,9 +27,9 @@ This guide is meant for anyone interested in learning more about analytics and d
 | Week 2     | [Core concepts][part2]        |
 | Week 3     | [Exploration][part3]          |
 | Week 4     | [Architecture][part4]         |
-| Week 5     | [Hands-on workshop][part5]    |
-| Week 6     | [Patterns & Practices][part6] |
-| Week 7     | [Best practices][part7]       |
+| Week 5 & 6 | [Hands-on workshop][part5]    |
+| Week 7     | [CAF/WAF][part6]              |
+| Week 8     | [Best practices][part7]       |
 
 
 [part1]: part1.md
