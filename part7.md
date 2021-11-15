@@ -1,5 +1,5 @@
-# Week 7
-## Operational best practices for Synapse & Purview
+# Week 8
+## Best practices and guidelines for Synapse & Purview
 
 Review these resources to understand the different ways to use Synapse and Purview in an optimal way!
 
