@@ -18,6 +18,9 @@ At the end of this whiteboard design session, you will be better able to design 
 **Hands-on lab**
 In this hands-on-lab, you will build an end-to-end data analytics with machine learning solution using Azure Synapse Analytics. The information will be presented in the context of a retail scenario. We will be heavily leveraging Azure Synapse Studio, a tool that conveniently unifies the most common data operations from ingestion, transformation, querying, and visualization.
 
+--- 
+
+# Week 6
 
 ## Azure Purview lab 
 
