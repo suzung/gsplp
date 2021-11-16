@@ -6,7 +6,7 @@ Learn more about Well Architected framework and Cloud Adoption framework in the 
 
  WIP links to be changed by Sevgi
  
- 
+- Enable Analytics Solutions using Cloud Adoption Framework for Azure.pptx (live.com)
 - [CAF Azure best practices - Synapse](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-best-practices/analytics/azure-synapse)
 
 ---
